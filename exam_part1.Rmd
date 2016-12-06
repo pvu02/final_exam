@@ -1,0 +1,9 @@
+---
+title: "exam_part1"
+author: "Janie P. Vu"
+date: "December 6, 2016"
+output: html_document
+---
+
+# Part 1
+The sample size suggested by this analysis is 75.
