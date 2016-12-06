@@ -42,8 +42,6 @@ library(apaTables)
 apa.cor.table(analytic_data, filename="Table1.doc", table.number=1,
               show.conf.interval = TRUE, landscape = TRUE)
 
-psych::alpha(analytic_data, keys=NULL,cumulative=FALSE, title=NULL, max=10,na.rm = TRUE,
-      check.keys=FALSE,n.iter=1,delete=TRUE,use="pairwise",warnings=TRUE,n.obs=NULL)
 
 # Graphical representation for linear/non-linear relations
 psych::pairs.panels(analytic_data)
